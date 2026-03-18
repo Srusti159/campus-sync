@@ -97,8 +97,3 @@ Follow these steps to set up the project on your local machine.
 
 ---
 
-## Team
-   - Srusti S
-   - Sree Raksha S P
-   - Srusti Yadawad
-   - Bhagyajyoti G
